@@ -5,10 +5,10 @@
  * @date    2017-08-01 23:26:21
  */
 
-import CodeMirror from 'codemirror';
+import CodeMirror from 'codemirror-wzk';
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import 'codemirror/lib/codemirror.css';
+import 'codemirror-wzk/lib/codemirror.css';
 
 class ReactCodeMirror extends Component {
   constructor(props) {

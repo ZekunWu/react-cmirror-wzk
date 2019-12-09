@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
 import ReactCodeMirror from '../src/react-cmirror';
-import 'codemirror/theme/monokai.css';
-import 'codemirror/theme/material.css';
-import 'codemirror/theme/night.css';
-import 'codemirror/mode/markdown/markdown';
-import 'codemirror/mode/javascript/javascript';
-import 'codemirror/mode/python/python';
+import 'codemirror-wzk/theme/monokai.css';
+import 'codemirror-wzk/theme/material.css';
+import 'codemirror-wzk/theme/night.css';
+import 'codemirror-wzk/mode/markdown/markdown';
+import 'codemirror-wzk/mode/javascript/javascript';
+import 'codemirror-wzk/mode/python/python';
 
 
 const themes = ['monokai', 'material', 'night'];

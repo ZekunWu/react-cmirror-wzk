@@ -1,5 +1,5 @@
 {
-  "name": "react-cmirror",
+  "name": "react-cmirror-wzk",
   "version": "1.4.2",
   "description": "Codemirror Component for React.js, all Codemirror options and event are supported.",
   "main": "./dist/react-cmirror.min.js",
@@ -28,7 +28,9 @@
   },
   "homepage": "https://github.com/ZiQiangWang/react-cmirror#readme",
   "dependencies": {
-    "codemirror": "https://github.com/ZekunWu/codemirror-wzk.git"
+    "codemirror-wzk": "file:../codemirror",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   },
   "peerDependencies": {
     "prop-types": ">=15.5.10",
