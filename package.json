@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ZiQiangWang/react-cmirror#readme",
   "dependencies": {
-    "codemirror-wzk": "file:../codemirror",
+    "codemirror-wzk": "git+https://github.com/ZekunWu/codemirror-wzk.git",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
